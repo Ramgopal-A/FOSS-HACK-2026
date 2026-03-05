@@ -22,7 +22,7 @@ By enabling a designated family member to remotely help with app settings or del
 
 Voice-First Navigation: Reduces the need for exact typing by optimizing for voice commands in regional languages.
 
-Privacy-First: All private information and family communications remain local to the device (such as the user's phone or your Lenovo LOQ).
+Privacy-First: All private information and family communications remain local to the device (such as the user's phone ).
 
 🏗️ Tech Stack Frontend: Tailwind CSS/React (optimized for large tap targets and high contrast)
 
